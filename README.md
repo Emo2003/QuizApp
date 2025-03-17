@@ -1,16 +1,21 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
+A simple and interactive Quiz App where users can answer questions and get their results, including the number of correct/wrong answers and their final score.
 
-## Getting Started
+## Features
+- List of questions with multiple-choice answers.
+- Calculation of correct and wrong answers.
+- Display of the final quiz score or percentage.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Frontend:** Flutter
+- **Programming Language:** Dart & OOP
 
-A few resources to get you started if this is your first Flutter project:
+## Purpose
+This app is perfect for:
+- Testing knowledge in a fun way.
+- Learning new topics through quizzes.
+- Educators creating quizzes for students.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Try It Out
+- Clone the repository and run it locally.
